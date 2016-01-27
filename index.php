@@ -1,7 +1,7 @@
 <?php
 require 'db_connection.php';
 
-
+gdshgfdhfdghdsfgds
 $query = $handler->query('SELECT * FROM COMMENTS');
 
 if($query->rowCount()){
